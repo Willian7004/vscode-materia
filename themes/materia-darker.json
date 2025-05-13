@@ -4,10 +4,10 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "activityBar.background": "#252526",
-        "sideBar.background": "#252526",
-        "statusBar.background": "#252526",
-        "editor.background": "#252526",
-        "panel.background": "#252526",
+        "activityBar.background": "#121212",
+        "sideBar.background": "#121212",
+        "statusBar.background": "#121212",
+        "editor.background": "#121212",
+        "panel.background": "#121212",
     }
 }

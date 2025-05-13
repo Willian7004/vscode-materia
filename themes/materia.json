@@ -19,11 +19,11 @@
         "terminal.ansiYellow": "#CC8820",
         "terminal.ansiBrightYellow": "#FFCC80",
         // Backgrounds
-        "activityBar.background": "#252526",
-        "sideBar.background": "#252526",
-        "statusBar.background": "#252526",
-        "editor.background": "#252526",
-        "panel.background": "#252526",
+        "activityBar.background": "#272727",
+        "sideBar.background": "#272727",
+        "statusBar.background": "#272727",
+        "editor.background": "#272727",
+        "panel.background": "#272727",
         // Void/transparent
         "terminal.border": "#0000",
         "statusBarItem.remoteBackground": "#0000",
